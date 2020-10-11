@@ -1,4 +1,4 @@
-do('sing,talk,think,write,read.').
+do('chat,talk,think,write,read.').
 
 task(chat,'I am currently chatting. :').
 task(talk,'I am currently talking. :)').
