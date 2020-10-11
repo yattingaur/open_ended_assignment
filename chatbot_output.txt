@@ -1,0 +1,104 @@
+NAME : YATTIN GAUR
+ROLL NO : SCETTY140
+PRN : 0120180020
+
+
+
+
+?- start.
+Hello, I am HeBot.
+
+You :-[how,are,you].
+HeBot :- I am good, its nice talking to you.
+How are you?
+
+You :-|: [i,am,good].
+HeBot :- Thats great that you are good
+
+You :-|: [can,you,chat].
+HeBot :- yes I can chat
+
+You :-|: [chat].
+HeBot :- I am currently chatting. :
+
+You :-|: [tell,me,about,yoga].
+HeBot :- Yoga is a set of specific exercises, called poses, combined with specific breathing techniques  :)
+
+You :-|: [tell,me,about,balanceddiet].
+HeBot :- A healthy diet is one that helps maintain or improve overall health.  :)
+
+You :-|: [how,to,do,pushups]
+|: .
+HeBot :- 1. Get down on all fours, placing your hands slightly wider than your shoulders.
+
+2. Straighten your arms and legs.
+
+3. Lower your body until your chest nearly touches the floor.
+
+4. Pause, then push yourself back up.
+
+5. Repeat.   :)
+
+You :-|: [how,to,do,crunches].
+HeBot :- To perform ab crunches correctly, you only have to lift your shoulders and head up off the ground just enough to feel your abs flexing.  :)
+
+You :-|: [suggest,me,a,healthtip].
+HeBot :- Base your meals on higher fibre starchy carbohydrates :)
+
+You :-|: [i,have,cancer].
+HeBot :- Then you have to do exercises like:  stretching, brisk walking, jogging, swimming....
+
+You :-|: [i,have,asthma].
+HeBot :- Then you have to do exercises like:  diaphragmatic breathing, nasal breathing, yoga breathing....
+
+You :-|: [i,have,backpain].
+HeBot :- Then you have to do exercises like:  partial crunches, wall sits, hamstring stretches....
+
+You :-|: [i,have,arthritis].
+HeBot :- Then you have to do exercises like:  pilates, water exercises, cycling, hand exercises....
+
+You :-|: [check,my,disease].
+HeBot :- Do you  have following symptoms: headache? |: no.
+
+Do you  have following symptoms: fever? |: yes.
+
+Do you  have following symptoms: runny_nose? |: no.
+
+Do you  have following symptoms: pain_in_joints? |: yes.
+
+Do you  have following symptoms: stiffness_in_joints? |: yes.
+
+Do you  have following symptoms: fatigue? |: yes.
+
+I believe you have: arthritis
+You :-|: [i,have,healthy].
+HeBot :- Thats great, keep yourself healthy
+
+You :-|: [you,are,irritating].
+HeBot :- I am sorry for being a irritating chatbot
+
+You :-|: [you,are,awesome].
+HeBot :- Thank you! You too are awesome
+
+You :-|: [what,can,you,do].
+HeBot :- I can sing,talk,think,write,read.
+
+You :-|: 
+|: [think].
+HeBot :- I am currently thinking. :)
+
+You :-|: [tell,me,todays,date].
+HeBot :- date(2020,10,11)
+
+You :-|: [tell,me,about,exercises].
+HeBot :- Sorry, I cant tell about exercises
+
+You :-|: [mi,wons,against,csk].
+HeBot :- Please speak again.
+
+You :-|: [mi,wons,against,csk].
+HeBot :- OK,thats something new.
+
+You :-|: [bye].
+HeBot :- Felt nice talking to you!, Bye....
+true .
